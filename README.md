@@ -94,7 +94,4 @@ This project is unlicensed. Feel free to use and modify it for personal or educa
 ## Contributing
 Contributions are welcome! Submit issues or pull requests to improve the strategy or documentation.
 
-## Acknowledgements
-- Built with assistance from Grok 3, an AI by xAI, on July 08, 2025.
-- Utilizes open-source libraries from the Python ecosystem.
 

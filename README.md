@@ -22,7 +22,7 @@ This repository contains a Python script implementing a Donchian Breakout tradin
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone git@github.com:yllvar/Donchain-Breakout.git
    cd Donchain-Breakout
    ```
 2. Create and activate a virtual environment:
